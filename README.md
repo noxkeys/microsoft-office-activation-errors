@@ -87,7 +87,7 @@ Office 2016, 2019, 2021 and 2024 all use the `Office16` folder. `LICENSE STATUS:
 | `0x8004FC12` | Activation failed, often after a Windows upgrade       | Install the latest Windows updates, or use the [commands below](#6-fix-error-0x8004fc12) |
 | `0xC004F050` | The product key is invalid                             | Check for typos and make sure the key matches the edition (e.g. Pro Plus)  |
 
-> **KMS key on a home PC?** Office volume (KMS) keys only work inside organisations with a KMS server. See [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys) for what those keys do.
+> **KMS key on a home PC?** Office volume (KMS) keys only work inside organisations with a KMS server. See [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys) for what those keys do.
 
 ---
 
@@ -230,11 +230,11 @@ For retail Office 2024 or 2021, uninstall it from the old PC first, then install
 
 More free references maintained by [Noxkeys](https://noxkeys.com/):
 
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
-- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/noxkeys/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
 
 ---
 
@@ -243,9 +243,9 @@ More free references maintained by [Noxkeys](https://noxkeys.com/):
 - [Microsoft Support – Unlicensed Product and activation errors in Office](https://support.microsoft.com/office/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 - [Microsoft Support – Office error code 0x8004FC12 when activating Office](https://support.microsoft.com/topic/f32c97d5-11f7-4e56-925c-94959b222bd3)
 - [Microsoft Learn – Tools to manage volume activation of Office (ospp.vbs)](https://learn.microsoft.com/en-us/office/volume-license-activation/tools-to-manage-volume-activation-of-office)
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys) – KMS keys and version comparison
-- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors) – Windows activation error codes
-- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro)
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys) – KMS keys and version comparison
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/noxkeys/windows-11-10-activation-errors) – Windows activation error codes
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/noxkeys/upgrade-windows-11-home-to-pro)
 - [Noxkeys – Genuine Microsoft Office keys](https://noxkeys.com/)
 
 ---
