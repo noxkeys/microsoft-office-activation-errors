@@ -15,6 +15,7 @@ Maintained by [Noxkeys](https://noxkeys.com/), an online store for genuine softw
 - [Step-by-step fixes](#step-by-step-fixes)
 - [When you need a new product key](#when-you-need-a-new-product-key)
 - [FAQ](#faq)
+- [Related guides](#related-guides)
 - [References](#references)
 
 ---
@@ -222,6 +223,18 @@ No. Remove the old key and enter the new one. A reinstall is only needed if the 
 
 **How do I move Office to a new PC?**
 For retail Office 2024 or 2021, uninstall it from the old PC first, then install and activate it on the new one with the same key or account.
+
+---
+
+## Related guides
+
+More free references maintained by [Noxkeys](https://noxkeys.com/):
+
+- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [Windows 11 & 10 Activation Errors and Fixes](https://github.com/webex9/windows-11-10-activation-errors): Windows activation error codes explained
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
 
 ---
 
